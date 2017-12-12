@@ -1,3 +1,5 @@
 <?php
 
 echo "foobar";
+
+testing()
