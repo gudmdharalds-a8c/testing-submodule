@@ -2,4 +2,4 @@
 
 echo "foobar";
 
-testing()
+testing();
